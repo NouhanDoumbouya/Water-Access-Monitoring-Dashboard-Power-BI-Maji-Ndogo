@@ -23,10 +23,7 @@ This project was built to provide clear visibility into:
 
 Choose one (or include both):
 
-- **PDF Export (recommended for quick review):** `Part_4.pdf` (or your exported dashboard PDF)
-- **Screenshots:** Put 2–6 key dashboard images in `/assets/` (optional but helpful)
-
-> If you are submitting this for a portal that requires “screenshots or evidence,” the PDF export is usually accepted as a clean substitute for many screenshots.
+- **PDF Export (recommended for quick review):** `alx_power_4_1.pdf`
 
 ---
 
@@ -64,7 +61,7 @@ Open `Part_4.pdf` to review the dashboard requirements, logic, and visuals (as e
 
 ### Option B — Open the Power BI file (If included)
 1. Install **Power BI Desktop**
-2. Open `dashboard.pbix`
+2. Open `alx_power_4_1.pbix`
 3. Refresh data (if prompted) and explore:
    - slicers
    - drill-down paths
